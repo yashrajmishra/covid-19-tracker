@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.card {
+  margin: 0 2% !important;
+
+}
+
+.infected {
+  border: 7px solid #7f7fff;
+}
+
+.recovered {
+  border: 7px solid #7fff7f;
+}
+
+.deaths {
+  border: 7px solid #ff7f7f;
+}
+
+.bgcolurr {
+  color: rgb(10, 91, 242);
+  background-color: #13141F;
+}
+.bgcolurrLight{
+  color: rgba(10, 91, 242, 0.5);
+}
+
+@media only screen and (max-width: 770px) {
+  .card {
+    margin: 2% 0 !important;
+  }
+}
