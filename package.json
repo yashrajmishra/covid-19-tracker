@@ -1,5 +1,6 @@
 {
   "name": "covid_tracker",
+  "description": "A simple tracker for COVID-19 Status",
   "version": "1.0.0",
   "author": "Yashraj Mishra <mishra.yashrajs@gmail.com>",
   "license": "MIT",
