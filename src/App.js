@@ -42,6 +42,8 @@ class App extends React.Component {
           Made with <span></span>💖 by{" "}
           <a style={{ color: "#0A5BF2" }} href="https://yashraj.now.sh/">
             Yashraj Mishra
+          </a> and <a style={{ color: "#0A5BF2" }} href="https://github.com/priya-sharma123">
+            Priyanka Sharma
           </a>
         </footer>
       </div>
